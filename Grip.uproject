@@ -1,0 +1,13 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "{48209929-4806-94FA-8A0B-0B8D075DC23B}",
+	"Category": "",
+	"Description": "",
+	"Modules": [
+		{
+			"Name": "Grip",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	]
+}
